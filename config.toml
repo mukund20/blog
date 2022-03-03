@@ -1,4 +1,14 @@
 baseURL = 'https://main.d2zysojpamuepc.amplifyapp.com/'
 languageCode = 'en-us'
-title = 'My blog site'
+title = 'Cloudfun blog'
 theme = "aether"
+
+
+[params]
+subtititle = "A place for my thoughts on cloud and DevOps" 
+logo = "img/cloud-sun-logo-260nw-1035026638.jpg"
+
+[Author]
+website = "cloudfun.in"
+email = contact@cloudfun.in
+youtube = cloudfun
